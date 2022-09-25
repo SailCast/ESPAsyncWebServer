@@ -26,7 +26,7 @@
     {
       "owner": "SailCast",      
       "name": "AsyncTCP",
-      "version": "^1.1.1",
+      "version": "master",
       "platforms": "espressif32"
     },
     {
