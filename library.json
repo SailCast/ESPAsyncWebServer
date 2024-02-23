@@ -26,7 +26,7 @@
     {
       "owner": "SailCast",      
       "name": "AsyncTCP",
-      "version": "master",
+      "version": "https://github.com/SailCast/AsyncTCP.git#master",
       "platforms": "espressif32"
     },
     {
